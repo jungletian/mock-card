@@ -19,7 +19,7 @@
                     "type": 1,
                     "layout": "c1",
                     "title": "title",
-                    "content": "今年的出走计划，泰国是其中之一，在这个月终于达成了！这已经不是我第一次去泰国了，但泰国是我去了之后深感意犹未尽的目的地之一，为了那一条… 展开",
+                    "content": "今年的出走计划，泰国是其中之一，在这个月终于达成了！这已经不是我第一次去泰国了",
                     "status": "status",
                     "poi": {
                         "poi_id": "123",
@@ -47,14 +47,14 @@
                         }
                     },
                     "praise": {
-                        "praise_count": 123,
-                        "praise_state": 1
+                        "praise_count":123,
+                        "praise_state":1
                     },
                     "collect": {
-                        "collect_state": 1
+                        "collect_state":1
                     },
                     "comment": {
-                        "comment_count": 123
+                        "comment_count":123
                     },
                     "images": [
                         {
@@ -115,7 +115,7 @@
                     "type": 2,
                     "layout": "c1",
                     "title": "title",
-                    "content": "今年的出走计划，泰国是其中之一，在这个月终于达成了！这已经不是我第一次去泰国了，但泰国是我去了之后深感意犹未尽的目的地之一，为了那一条… 展开",
+                    "content": "新时代要有新气象，更要有新作为。立于党的十九大召开一周年的时间节点回望，在以习近平同志为核心的党中央坚强领导下，全党全军全国各族人民以习近平新时代中国特色社会主义思想为指引，攻坚克难、砥砺奋进，向着党的十九大确定的宏伟目标扎实前行，改革发展书写新篇章，神州大地一派新气象。",
                     "status": "status",
                     "poi": {
                         "poi_id": "123",
@@ -143,14 +143,14 @@
                         }
                     },
                     "praise": {
-                        "praise_count": 123,
-                        "praise_state": 1
+                        "praise_count":123,
+                        "praise_state":1
                     },
                     "collect": {
-                        "collect_state": 1
+                        "collect_state":1
                     },
                     "comment": {
-                        "comment_count": 123
+                        "comment_count":123
                     },
                     "images": [
                         {
