@@ -46,13 +46,15 @@
                             "share_url": "share_url"
                         }
                     },
-                    "praiseCount": 1,
-                    "praise_state": 1,
-                    "collect_state": 1,
-                    "statistics": {
-                        "comment_count": 123,
-                        "play_count": 123,
-                        "share_count": 123
+                    "praise": {
+                        "praise_count": 123,
+                        "praise_state": 1
+                    },
+                    "collect": {
+                        "collect_state": 1
+                    },
+                    "comment": {
+                        "comment_count": 123
                     },
                     "images": [
                         {
@@ -140,13 +142,15 @@
                             "share_url": "share_url"
                         }
                     },
-                    "praiseCount": 1,
-                    "praise_state": 1,
-                    "collect_state": 1,
-                    "statistics": {
-                        "comment_count": 123,
-                        "play_count": 123,
-                        "share_count": 123
+                    "praise": {
+                        "praise_count": 123,
+                        "praise_state": 1
+                    },
+                    "collect": {
+                        "collect_state": 1
+                    },
+                    "comment": {
+                        "comment_count": 123
                     },
                     "images": [
                         {
