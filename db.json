@@ -5,14 +5,14 @@
         "data": {
             "list": [
                 {
-                    "user": {
+                    "author": {
                         "uid": "123",
                         "nickname": "nickname",
                         "gender": "gender",
                         "birth": "birth",
                         "sign": "sign",
                         "avatar": "http://c.hiphotos.baidu.com/image/pic/item/b2de9c82d158ccbffea08a4c14d8bc3eb13541a3.jpg",
-                        "followState": 1
+                        "followState": 2
                     },
                     "nid": "12345",
                     "ts": "1540016744",
@@ -97,11 +97,12 @@
                     "share": {
                         "title": "title",
                         "url": "http://www.baidu.com",
-                        "desc": "desc"
+                        "img_url": "https://ws2.sinaimg.cn/large/006tNbRwly1fwc8ov4rsoj30iy0hy7dz.jpg",
+                        "content": "desc"
                     }
                 },
                 {
-                    "user": {
+                    "author": {
                         "uid": "123",
                         "nickname": "nickname",
                         "gender": "gender",
@@ -175,7 +176,8 @@
                     "share": {
                         "title": "title",
                         "url": "http://www.baidu.com",
-                        "desc": "desc"
+                        "img_url": "https://ws2.sinaimg.cn/large/006tNbRwly1fwc8ov4rsoj30iy0hy7dz.jpg",
+                        "content": "desc"
                     }
                 }
             ],
