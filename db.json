@@ -19,7 +19,79 @@
                     "type": 1,
                     "layout": "c1",
                     "title": "title",
-                    "content": "今年的出走计划，泰国是其中之一，在这个月终于达成了！这已经不是我第一次去泰国了",
+                    "content": [
+						{
+							"type": "image",
+							"data": {
+								"original": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								},
+								"small": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								},
+								"big": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								}
+							}
+						},
+						{
+							"type": "image",
+							"data": {
+								"original": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								},
+								"small": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								},
+								"big": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								}
+							}
+						},
+						{
+							"type": "image",
+							"data": {
+								"original": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								},
+								"small": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								},
+								"big": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								}
+							}
+						},
+						{
+							"type": "video",
+							"data": {
+								"mediaId": "vid",
+								"src": "https://aweme.snssdk.com/aweme/v1/play/?video_id=374e166692ee4ebfae030ceae117a9d0&line=0&ratio=720p",
+								"cover": "http://p1.pstatp.com/large/4bea0014e31708ecb03e.jpeg",
+								"long": "duration",
+								"width": 720,
+								"height": 1080
+							}
+						}
+					],
                     "status": "status",
                     "poi": {
                         "poi_id": "123",
@@ -116,8 +188,80 @@
                     "type": 2,
                     "layout": "c1",
                     "title": "title",
-                    "content": "新时代要有新气象，更要有新作为。立于党的十九大召开一周年的时间节点回望，在以习近平同志为核心的党中央坚强领导下，全党全军全国各族人民以习近平新时代中国特色社会主义思想为指引，攻坚克难、砥砺奋进，向着党的十九大确定的宏伟目标扎实前行，改革发展书写新篇章，神州大地一派新气象。",
-                    "status": "status",
+					"content": [
+						{
+							"type": "image",
+							"data": {
+								"original": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								},
+								"small": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								},
+								"big": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								}
+							}
+						},
+						{
+							"type": "image",
+							"data": {
+								"original": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								},
+								"small": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								},
+								"big": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								}
+							}
+						},
+						{
+							"type": "image",
+							"data": {
+								"original": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								},
+								"small": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								},
+								"big": {
+									"width": "109",
+									"height": "194",
+									"src": "https://ws1.sinaimg.cn/large/006tNbRwly1fw5nnvcdkij30p00i241x.jpg"
+								}
+							}
+						},
+						{
+							"type": "video",
+							"data": {
+								"mediaId": "vid",
+								"src": "https://aweme.snssdk.com/aweme/v1/play/?video_id=374e166692ee4ebfae030ceae117a9d0&line=0&ratio=720p",
+								"cover": "http://p1.pstatp.com/large/4bea0014e31708ecb03e.jpeg",
+								"long": "duration",
+								"width": 720,
+								"height": 1080
+							}
+						}
+					],
+					"status": "status",
                     "poi": {
                         "poi_id": "123",
                         "poi_name": "123",
